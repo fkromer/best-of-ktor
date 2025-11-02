@@ -17,6 +17,8 @@ categories:
     title: "RabbitMQ"
   - category: "db"
     title: "Database"
+  - category: "orm"
+    title: "Object Relational Mapping"
 
 labels:
   - label: "server"
@@ -75,3 +77,7 @@ projects:
     github_id: mysql/mysql-connector-j
     labels: ["server", "msql"]
     category: "database"
+  - name: Exposed
+    github_id: JetBrains/Exposed
+    labels: ["server"]
+    category: "orm"
