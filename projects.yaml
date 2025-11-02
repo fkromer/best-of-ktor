@@ -3,17 +3,53 @@ configuration:
   markdown_footer_file: "config/footer.md"
 
 categories:
-  # - category: "data-engineering"
-  #   title: "Machine Learning & Data Engineering"
-  #   subtitle: "Best-of lists about machine learning, data engieering, data science, or other topics related to big data."
+  - category: "authentication"
+    title: "Authentication"
+  - category: "asyncapi"
+    title: "AsyncAPI"
+  - category: "openapi"
+    title: "OpenAPI"
+  - category: "cache"
+    title: "Cache"
+  - category: "monitoring"
+    title: "Monitoring"
+  - category: "rabbitmq"
+    title: "RabbitMQ"
 
 labels:
-  # - label: "python"
-  #   image: "https://www.python.org/static/favicon.ico"
-  #   description: "Best-of list with Python projects"
+  - label: "server"
+    description: "ktor server related projects"
 
 projects:
-  # - name: best-of-ml-python
-  #   github_id: ml-tooling/best-of-ml-python
-  #   labels: ["python"]
-  #   category: "data-engineering"
+  - name: cohort
+    github_id: sksamuel/cohort
+    labels: ["server"]
+    category: "monitoring"
+  - name: kotlin-asyncapi
+    github_id: asyncapi/kotlin-asyncapi
+    labels: ["server"]
+    category: "asyncapi"
+  - name: firebase-auth-provider
+    github_id: krizzu/firebase-auth-provider
+    labels: ["server"]
+    category: "authentication"
+  - name: ktor-openapi-tools
+    github_id: SMILEY4/ktor-openapi-tools
+    labels: ["server"]
+    category: "openapi"
+  - name: ktor-simple-cache
+    github_id: Scogun/ktor-simple-cache
+    labels: ["server"]
+    category: "cache"
+  - name: ktor-server-rabbitmq
+    github_id: DamirDenis-Tudor/ktor-server-rabbitmq
+    labels: ["server"]
+    category: "rabbitmq"
+  - name: OpenTelemetry
+    github_id: open-telemetry/opentelemetry-java-instrumentation
+    labels: ["server"]
+    category: "monitoring"
+  - name: https://github.com/AugustArchive/sentry-ktor
+    github_id: AugustArchive/sentry-ktor
+    labels: ["server"]
+    category: "monitoring"
