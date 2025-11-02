@@ -15,10 +15,16 @@ categories:
     title: "Monitoring"
   - category: "rabbitmq"
     title: "RabbitMQ"
+  - category: "db"
+    title: "Database"
 
 labels:
   - label: "server"
     description: "ktor server related projects"
+  - label: "postgresql"
+  - label: "mysql"
+  - label: "mariadb"
+  - label: "sqlite"
 
 projects:
   - name: cohort
@@ -49,7 +55,23 @@ projects:
     github_id: open-telemetry/opentelemetry-java-instrumentation
     labels: ["server"]
     category: "monitoring"
-  - name: https://github.com/AugustArchive/sentry-ktor
+  - name: sentry-ktor
     github_id: AugustArchive/sentry-ktor
     labels: ["server"]
     category: "monitoring"
+  - name: pgjdbc
+    github_id: pgjdbc/pgjdbc
+    labels: ["server", "postgresql"]
+    category: "database"
+  - name: sqlite-jdbc
+    github_id: xerial/sqlite-jdbc
+    labels: ["server", "sqlite"]
+    category: "database"
+  - name: mariadb-connector-j
+    github_id: mariadb-corporation/mariadb-connector-j
+    labels: ["server", "mariadb"]
+    category: "database"
+  - name: mysql-connector-j
+    github_id: mysql/mysql-connector-j
+    labels: ["server", "msql"]
+    category: "database"
