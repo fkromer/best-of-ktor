@@ -9,6 +9,8 @@ categories:
     title: "AsyncAPI"
   - category: "openapi"
     title: "OpenAPI"
+  - category: "graphqlapi"
+    title: "GraphQL API"
   - category: "cache"
     title: "Cache"
   - category: "monitoring"
@@ -81,3 +83,11 @@ projects:
     github_id: JetBrains/Exposed
     labels: ["server"]
     category: "orm"
+  - name: apollo-kotlin-ktor-support
+    github_id: apollographql/apollo-kotlin-ktor-support
+    labels: ["server"]
+    category: "graphqlapi"
+  - name: KGraphQL
+    github_id: aPureBase/KGraphQL
+    labels: ["server"]
+    category: "graphqlapi"
