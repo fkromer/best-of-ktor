@@ -291,7 +291,7 @@ This curated list contains 27 awesome open-source projects with a total of 21K s
 
 - <b><a href="https://github.com/mariadb-corporation/mariadb-connector-j">mariadb-connector-j</a></b> (🥉19 ·  ⭐ 350) - MariaDB Connector/J is used to connect applications.. <code><a href="https://tldrlegal.com/search?q=LGPL-2.1">❗️LGPL-2.1</a></code>
 - <b><a href="https://github.com/mysql/mysql-connector-j">mysql-connector-j</a></b> (🥉15 ·  ⭐ 980) - MySQL Connector/J. <code>❗Unlicensed</code> <code>msql</code>
-- <b><a href="https://zed.dev/extensions/kotlin">Zed Kotlin Language Support</a></b> (🥉9 ·  ⭐ 60 · ➕) - Kotlin support. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://zed.dev/extensions/kotlin">Zed Kotlin Language Support</a></b> (🥉9 ·  ⭐ 60) - Kotlin support. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
 </details>
 
 ---
