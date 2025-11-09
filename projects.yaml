@@ -160,7 +160,7 @@ projects:
     category: "docs"
   - name: API docs
     github_id: ktorio/api.ktor.io
-    homepage: https://api.ktor.io/
+    homepage: https://api.ktor.io/3.2.x/
     labels: ["server", "client"]
     category: "docs"
 
