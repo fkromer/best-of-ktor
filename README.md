@@ -10,12 +10,12 @@
 
 <p align="center">
     <a href="https://best-of.org" title="Best-of Badge"><img src="http://bit.ly/3o3EHNN"></a>
-    <a href="#Contents" title="Project Count"><img src="https://img.shields.io/badge/projects-26-blue.svg?color=5ac4bf"></a>
+    <a href="#Contents" title="Project Count"><img src="https://img.shields.io/badge/projects-28-blue.svg?color=5ac4bf"></a>
     <a href="#Contribution" title="Contributions are welcome"><img src="https://img.shields.io/badge/contributions-welcome-green.svg"></a>
     <a href="https://github.com/fkromer/best-of-ktor/releases" title="Best-of Updates"><img src="https://img.shields.io/github/release-date/fkromer/best-of-ktor?color=green&label=updated"></a>
 </p>
 
-This curated list contains 26 awesome open-source projects with a total of 21K stars grouped into 15 categories. All projects are ranked by a project-quality score, which is calculated based on various metrics automatically collected from GitHub and different package managers. If you like to add or update projects, feel free to open an [issue](https://github.com/fkromer/best-of-ktor/issues/new/choose), submit a [pull request](https://github.com/fkromer/best-of-ktor/pulls), or directly edit the [projects.yaml](https://github.com/fkromer/best-of-ktor/edit/main/projects.yaml). Contributions are very welcome!
+This curated list contains 28 awesome open-source projects with a total of 21K stars grouped into 16 categories. All projects are ranked by a project-quality score, which is calculated based on various metrics automatically collected from GitHub and different package managers. If you like to add or update projects, feel free to open an [issue](https://github.com/fkromer/best-of-ktor/issues/new/choose), submit a [pull request](https://github.com/fkromer/best-of-ktor/pulls), or directly edit the [projects.yaml](https://github.com/fkromer/best-of-ktor/edit/main/projects.yaml). Contributions are very welcome!
 
 > 🧙‍♂️  Discover other [best-of lists](https://best-of.org) or [create your own](https://github.com/best-of-lists/best-of/blob/main/create-best-of-list.md).
 
@@ -28,15 +28,15 @@ This curated list contains 26 awesome open-source projects with a total of 21K s
 - [Cache](#cache) _1 projects_
 - [Monitoring](#monitoring) _3 projects_
 - [RabbitMQ](#rabbitmq) _1 projects_
-- [Database](#database) _0 projects_
+- [Database](#database) _4 projects_
 - [Object Relational Mapping](#object-relational-mapping) _1 projects_
 - [Project Template](#project-template) _3 projects_
 - [IDE](#ide) _1 projects_
-- [IDE Integration](#ide-integration) _1 projects_
+- [IDE Integration](#ide-integration) _2 projects_
 - [Project and code examples](#project-and-code-examples) _3 projects_
 - [Documentation](#documentation) _2 projects_
 - [Containerization](#containerization) _1 projects_
-- [Others](#others) _4 projects_
+- [Rate Limiting](#rate-limiting) _1 projects_
 
 ## Explanation
 - 🥇🥈🥉&nbsp; Combined project-quality score
@@ -158,6 +158,27 @@ This curated list contains 26 awesome open-source projects with a total of 21K s
 
 <a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
 
+<details><summary><b><a href="https://github.com/pgjdbc/pgjdbc">pgjdbc</a></b> (🥇35 ·  ⭐ 1.6K) - Postgresql JDBC Driver. <code><a href="http://bit.ly/3rqEWVr">BSD-2</a></code></summary>
+
+- [GitHub](https://github.com/pgjdbc/pgjdbc) (👨‍💻 340 · 🔀 880 · 📥 15K · 📦 1.1M · 📋 1.4K - 30% open · ⏱️ 08.11.2025):
+
+	```
+	git clone https://github.com/pgjdbc/pgjdbc
+	```
+</details>
+<details><summary><b><a href="https://github.com/xerial/sqlite-jdbc">sqlite-jdbc</a></b> (🥈27 ·  ⭐ 3.1K) - SQLite JDBC Driver. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+
+- [GitHub](https://github.com/xerial/sqlite-jdbc) (👨‍💻 160 · 🔀 600 · 📥 1.1M · 📋 650 - 8% open · ⏱️ 07.11.2025):
+
+	```
+	git clone https://github.com/xerial/sqlite-jdbc
+	```
+</details>
+<details><summary>Show 2 hidden projects...</summary>
+
+- <b><a href="https://github.com/mariadb-corporation/mariadb-connector-j">mariadb-connector-j</a></b> (🥉19 ·  ⭐ 350) - MariaDB Connector/J is used to connect applications.. <code><a href="https://tldrlegal.com/search?q=LGPL-2.1">❗️LGPL-2.1</a></code>
+- <b><a href="https://github.com/mysql/mysql-connector-j">mysql-connector-j</a></b> (🥉15 ·  ⭐ 980) - MySQL Connector/J. <code>❗Unlicensed</code> <code>msql</code>
+</details>
 <br>
 
 ## Object Relational Mapping
@@ -188,8 +209,8 @@ This curated list contains 26 awesome open-source projects with a total of 21K s
 </details>
 <details><summary>Show 2 hidden projects...</summary>
 
-- <b><a href="https://github.com/ktorio/ktor-plugin-registry">Ktor Plugin Registry</a></b> (🥇13 ·  ⭐ 83 · ➕) - Maintains a repository of all Ktor plugins. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
-- <b><a href="https://github.com/ktorio/kastle">KASTLE</a></b> (🥉4 ·  ⭐ 1 · ➕) - Kotlin application source templating / layout engine. <code>❗Unlicensed</code>
+- <b><a href="https://github.com/ktorio/ktor-plugin-registry">Ktor Plugin Registry</a></b> (🥇13 ·  ⭐ 83) - Maintains a repository of all Ktor plugins. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
+- <b><a href="https://github.com/ktorio/kastle">KASTLE</a></b> (🥉4 ·  ⭐ 1) - Kotlin application source templating / layout engine. <code>❗Unlicensed</code>
 </details>
 <br>
 
@@ -199,7 +220,7 @@ This curated list contains 26 awesome open-source projects with a total of 21K s
 
 <details><summary>Show 1 hidden projects...</summary>
 
-- <b><a href="https://www.jetbrains.com/idea/">JetBrains IntelliJ IDEA</a></b> (➕) -  <code>❗Unlicensed</code> <code>client</code>
+- <b><a href="https://www.jetbrains.com/idea/">JetBrains IntelliJ IDEA</a></b> -  <code>❗Unlicensed</code> <code>client</code>
 </details>
 <br>
 
@@ -207,9 +228,10 @@ This curated list contains 26 awesome open-source projects with a total of 21K s
 
 <a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
 
-<details><summary>Show 1 hidden projects...</summary>
+<details><summary>Show 2 hidden projects...</summary>
 
-- <b><a href="https://plugins.jetbrains.com/plugin/16008-ktor">JetBrains IntelliJ IDEA Ktor Plugin</a></b> (➕) -  <code>❗Unlicensed</code>
+- <b><a href="https://zed.dev/extensions/kotlin">Zed Kotlin Language Support</a></b> (🥇9 ·  ⭐ 60 · ➕) - Kotlin support. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://plugins.jetbrains.com/plugin/16008-ktor">JetBrains IntelliJ IDEA Ktor Plugin</a></b> -  <code>❗Unlicensed</code>
 </details>
 <br>
 
@@ -217,7 +239,7 @@ This curated list contains 26 awesome open-source projects with a total of 21K s
 
 <a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
 
-<details><summary><b><a href="https://github.com/ktorio/ktor-samples">Samples for Ktor</a></b> (🥇19 ·  ⭐ 1.6K · ➕) - Sample projects for Ktor. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <code>client</code></summary>
+<details><summary><b><a href="https://github.com/ktorio/ktor-samples">Samples for Ktor</a></b> (🥇19 ·  ⭐ 1.6K) - Sample projects for Ktor. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <code>client</code></summary>
 
 - [GitHub](https://github.com/ktorio/ktor-samples) (👨‍💻 47 · 🔀 350 · 📋 38 - 5% open · ⏱️ 07.11.2025):
 
@@ -227,7 +249,7 @@ This curated list contains 26 awesome open-source projects with a total of 21K s
 </details>
 <details><summary>Show 2 hidden projects...</summary>
 
-- <b><a href="https://github.com/ktorio/ktor-chat">Ktor Chat</a></b> (🥉7 ·  ⭐ 39 · ➕) - Example for a large, full-stack application using the.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <code>client</code>
+- <b><a href="https://github.com/ktorio/ktor-chat">Ktor Chat</a></b> (🥉7 ·  ⭐ 39) - Example for a large, full-stack application using the.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <code>client</code>
 - <b><a href="https://github.com/ktorio/ktor-answers">Ktor Demo Application</a></b> (🥉4 ·  ⭐ 3 · 💀) -  <code>❗Unlicensed</code>
 </details>
 <br>
@@ -236,7 +258,7 @@ This curated list contains 26 awesome open-source projects with a total of 21K s
 
 <a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
 
-<details><summary><b><a href="https://github.com/ktorio/ktor-documentation">Documentation</a></b> (🥇17 ·  ⭐ 510 · ➕) - Documentation for the Ktor framework. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+<details><summary><b><a href="https://github.com/ktorio/ktor-documentation">Documentation</a></b> (🥇17 ·  ⭐ 510) - Documentation for the Ktor framework. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
 - [GitHub](https://github.com/ktorio/ktor-documentation) (👨‍💻 120 · 🔀 340 · ⏱️ 07.11.2025):
 
@@ -246,7 +268,7 @@ This curated list contains 26 awesome open-source projects with a total of 21K s
 </details>
 <details><summary>Show 1 hidden projects...</summary>
 
-- <b><a href="https://api.ktor.io/">API docs</a></b> (🥉6 ·  ⭐ 4 · ➕) - API docs for ktor.io website. <code>❗Unlicensed</code> <code>client</code>
+- <b><a href="https://api.ktor.io/">API docs</a></b> (🥉6 ·  ⭐ 4) - API docs for ktor.io website. <code>❗Unlicensed</code> <code>client</code>
 </details>
 <br>
 
@@ -256,34 +278,17 @@ This curated list contains 26 awesome open-source projects with a total of 21K s
 
 <details><summary>Show 1 hidden projects...</summary>
 
-- <b><a href="https://github.com/ktorio/ktor-build-plugins">Containerization</a></b> (🥇15 ·  ⭐ 75 · ➕) - Ktor Plugins for Build Systems. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
+- <b><a href="https://github.com/ktorio/ktor-build-plugins">Containerization</a></b> (🥇15 ·  ⭐ 75) - Ktor Plugins for Build Systems. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
 </details>
 <br>
 
-## Others
+## Rate Limiting
 
 <a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
 
-<details><summary><b><a href="https://github.com/pgjdbc/pgjdbc">pgjdbc</a></b> (🥇35 ·  ⭐ 1.6K) - Postgresql JDBC Driver. <code><a href="http://bit.ly/3rqEWVr">BSD-2</a></code></summary>
+<details><summary>Show 1 hidden projects...</summary>
 
-- [GitHub](https://github.com/pgjdbc/pgjdbc) (👨‍💻 340 · 🔀 880 · 📥 15K · 📦 1.1M · 📋 1.4K - 30% open · ⏱️ 08.11.2025):
-
-	```
-	git clone https://github.com/pgjdbc/pgjdbc
-	```
-</details>
-<details><summary><b><a href="https://github.com/xerial/sqlite-jdbc">sqlite-jdbc</a></b> (🥈27 ·  ⭐ 3.1K) - SQLite JDBC Driver. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
-
-- [GitHub](https://github.com/xerial/sqlite-jdbc) (👨‍💻 160 · 🔀 600 · 📥 1.1M · 📋 650 - 8% open · ⏱️ 07.11.2025):
-
-	```
-	git clone https://github.com/xerial/sqlite-jdbc
-	```
-</details>
-<details><summary>Show 2 hidden projects...</summary>
-
-- <b><a href="https://github.com/mariadb-corporation/mariadb-connector-j">mariadb-connector-j</a></b> (🥉19 ·  ⭐ 350) - MariaDB Connector/J is used to connect applications.. <code><a href="https://tldrlegal.com/search?q=LGPL-2.1">❗️LGPL-2.1</a></code>
-- <b><a href="https://github.com/mysql/mysql-connector-j">mysql-connector-j</a></b> (🥉15 ·  ⭐ 980) - MySQL Connector/J. <code>❗Unlicensed</code> <code>msql</code>
+- <b><a href="https://github.com/Flaxoos/extra-ktor-plugins">Rate Limiting</a></b> (🥇10 ·  ⭐ 93 · ➕) - Feature-rich, efficient, and highly customizable.. <code>❗Unlicensed</code>
 </details>
 
 ---
