@@ -2,15 +2,6 @@
 
 _Projects that were recently added to this best-of list._
 
-- <b><a href="https://github.com/ktorio/ktor-samples">Samples for Ktor</a></b> (🥇19 ·  ⭐ 1.6K · ➕) - Sample projects for Ktor. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <code>client</code>
-- <b><a href="https://github.com/ktorio/ktor-documentation">Documentation</a></b> (🥇17 ·  ⭐ 510 · ➕) - Documentation for the Ktor framework. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
-- <b><a href="https://github.com/ktorio/ktor-build-plugins">Containerization</a></b> (🥇15 ·  ⭐ 75 · ➕) - Ktor Plugins for Build Systems. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
-- <b><a href="https://github.com/ktorio/ktor-plugin-registry">Ktor Plugin Registry</a></b> (🥇13 ·  ⭐ 83 · ➕) - Maintains a repository of all Ktor plugins. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
-- <b><a href="https://start.ktor.io">Ktor CLI</a></b> (🥉11 ·  ⭐ 130 · 💤) - Command-line tool for creating Ktor projects. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
-- <b><a href="https://github.com/ktorio/ktor-chat">Ktor Chat</a></b> (🥉7 ·  ⭐ 39 · ➕) - Example for a large, full-stack application using the.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <code>client</code>
-- <b><a href="https://api.ktor.io/">API docs</a></b> (🥉6 ·  ⭐ 4 · ➕) - API docs for ktor.io website. <code>❗Unlicensed</code> <code>client</code>
-- <b><a href="https://github.com/ktorio/ktor-answers">Ktor Demo Application</a></b> (🥉4 ·  ⭐ 3 · 💀) -  <code>❗Unlicensed</code>
-- <b><a href="https://github.com/ktorio/kastle">KASTLE</a></b> (🥉4 ·  ⭐ 1 · ➕) - Kotlin application source templating / layout engine. <code>❗Unlicensed</code>
-- <b><a href="https://www.jetbrains.com/idea/">JetBrains IntelliJ IDEA</a></b> (➕) -  <code>❗Unlicensed</code> <code>client</code>
-- <b><a href="https://plugins.jetbrains.com/plugin/16008-ktor">JetBrains IntelliJ IDEA Ktor Plugin</a></b> (➕) -  <code>❗Unlicensed</code>
+- <b><a href="https://zed.dev/extensions/kotlin">Zed Kotlin Language Support</a></b> (🥉9 ·  ⭐ 60 · ➕) - Kotlin support. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="{}">Rate Limiting</a></b> (➕) -  <code>❗Unlicensed</code>
 
