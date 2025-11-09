@@ -33,6 +33,8 @@ categories:
     title: "Documentation"
   - category: "containerization"
     title: "Containerization"
+  - category: "rate-limiting"
+    title: "Rate Limiting"
 
 labels:
   - label: "server"
@@ -131,6 +133,10 @@ projects:
     homepage: https://plugins.jetbrains.com/plugin/16008-ktor
     labels: ["server"]
     category: "ide-integration"
+  - name: Zed Kotlin Language Support
+    github_id: zed-extensions/kotlin
+    homepage: https://zed.dev/extensions/kotlin
+    doc_url: https://github.com/zed-extensions/kotlin/blob/main/README.md
 
   - name: Samples for Ktor
     github_id: ktorio/ktor-samples
@@ -160,3 +166,9 @@ projects:
     github_id: ktorio/ktor-build-plugins
     labels: ["server"]
     category: "containerization"
+
+  - name: Rate Limiting
+    github_id: extra-ktor-plugins/tree/main/ktor-server-rate-limiting
+    doc_url: https://github.com/Flaxoos/extra-ktor-plugins/blob/main/ktor-server-rate-limiting/README.md
+    labels: ["server"]
+    category: "rate-limiting"
