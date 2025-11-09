@@ -21,6 +21,18 @@ categories:
     title: "Database"
   - category: "orm"
     title: "Object Relational Mapping"
+  - category: "pt"
+    title: "Project Template"
+  - category: "ide"
+    title: "IDE"
+  - category: "ide-integration"
+    title: "IDE Integration"
+  - category: "examples"
+    title: "Project and code examples"
+  - category: "docs"
+    title: "Documentation"
+  - category: "containerization"
+    title: "Containerization"
 
 labels:
   - label: "server"
@@ -91,3 +103,60 @@ projects:
     github_id: aPureBase/KGraphQL
     labels: ["server"]
     category: "graphqlapi"
+
+  - name: Ktor CLI
+    github_id: ktorio/ktor-cli
+    homepage: https://start.ktor.io
+    doc_url: https://ktor.io/docs/server-create-a-new-project.html#create_project_with_ktor_cli_tool
+    labels: ["server"]
+    category: "pt"
+  - name: Ktor Plugin Registry
+    github_id: ktorio/ktor-plugin-registry
+    doc_url: https://github.com/ktorio/ktor-plugin-registry/blob/main/README.md
+    labels: ["server"]
+    category: "pt"
+  - name: KASTLE
+    github_id: ktorio/kastle
+    docs_url: https://github.com/ktorio/kastle?tab=readme-ov-file#documentation
+    labels: ["server"]
+    category: "pt"
+
+  - name: JetBrains IntelliJ IDEA
+    homepage: https://www.jetbrains.com/idea/
+    doc_url: https://www.jetbrains.com/help/idea/ktor.html
+    labels: ["server", "client"]
+    category: "ide"
+
+  - name: JetBrains IntelliJ IDEA Ktor Plugin
+    homepage: https://plugins.jetbrains.com/plugin/16008-ktor
+    labels: ["server"]
+    category: "ide-integration"
+
+  - name: Samples for Ktor
+    github_id: ktorio/ktor-samples
+    labels: ["server", "client"]
+    category: "examples"
+  - name: Ktor Chat
+    github_id: ktorio/ktor-chat
+    labels: ["server", "client"]
+    category: "examples"
+  - name: Ktor Demo Application
+    github_id: ktorio/ktor-answers
+    labels: ["server"]
+    category: "examples"
+
+  - name: Documentation
+    github_id: ktorio/ktor-documentation
+    docs_url: https://ktor.io/docs/welcome.html
+    labels: ["server"]
+    category: "docs"
+  - name: API docs
+    github_id: ktorio/api.ktor.io
+    homepage: https://api.ktor.io/
+    labels: ["server", "client"]
+    category: "docs"
+
+  - name: Containerization
+    github_id: ktorio/ktor-build-plugins
+    labels: ["server"]
+    category: "containerization"
