@@ -82,7 +82,7 @@ This curated list contains 28 awesome open-source projects with a total of 21K s
 
 <details><summary><b><a href="https://github.com/SMILEY4/ktor-openapi-tools">ktor-openapi-tools</a></b> (🥇19 ·  ⭐ 260) - A collection of libraries to simplify API.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/SMILEY4/ktor-openapi-tools) (👨‍💻 23 · 🔀 39 · 📋 180 - 1% open · ⏱️ 02.11.2025):
+- [GitHub](https://github.com/SMILEY4/ktor-openapi-tools) (👨‍💻 24 · 🔀 39 · 📋 180 - 0% open · ⏱️ 10.11.2025):
 
 	```
 	git clone https://github.com/SMILEY4/ktor-openapi-tools
@@ -104,7 +104,7 @@ This curated list contains 28 awesome open-source projects with a total of 21K s
 </details>
 <details><summary>Show 1 hidden projects...</summary>
 
-- <b><a href="https://github.com/apollographql/apollo-kotlin-ktor-support">apollo-kotlin-ktor-support</a></b> (🥉8 ·  ⭐ 9) - apollo-kotlin-ktor-support. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/apollographql/apollo-kotlin-ktor-support">apollo-kotlin-ktor-support</a></b> (🥉9 ·  ⭐ 9 · 📈) - apollo-kotlin-ktor-support. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
 </details>
 <br>
 
@@ -114,7 +114,7 @@ This curated list contains 28 awesome open-source projects with a total of 21K s
 
 <details><summary>Show 1 hidden projects...</summary>
 
-- <b><a href="https://github.com/Scogun/ktor-simple-cache">ktor-simple-cache</a></b> (🥇8 ·  ⭐ 37) - Ktor plugin for output caching. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
+- <b><a href="https://github.com/Scogun/ktor-simple-cache">ktor-simple-cache</a></b> (🥇9 ·  ⭐ 37 · 📈) - Ktor plugin for output caching. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
 </details>
 <br>
 
@@ -124,7 +124,7 @@ This curated list contains 28 awesome open-source projects with a total of 21K s
 
 <details><summary><b><a href="https://github.com/open-telemetry/opentelemetry-java-instrumentation">OpenTelemetry</a></b> (🥇33 ·  ⭐ 2.4K) - OpenTelemetry auto-instrumentation and instrumentation.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/open-telemetry/opentelemetry-java-instrumentation) (👨‍💻 370 · 🔀 1K · 📥 19M · 📋 4.1K - 5% open · ⏱️ 08.11.2025):
+- [GitHub](https://github.com/open-telemetry/opentelemetry-java-instrumentation) (👨‍💻 370 · 🔀 1K · 📥 20M · 📋 4.1K - 5% open · ⏱️ 20.11.2025):
 
 	```
 	git clone https://github.com/open-telemetry/opentelemetry-java-instrumentation
@@ -132,7 +132,7 @@ This curated list contains 28 awesome open-source projects with a total of 21K s
 </details>
 <details><summary><b><a href="https://github.com/sksamuel/cohort">cohort</a></b> (🥉15 ·  ⭐ 180) - Ktor/Vertx spring-actuator style library - healthchecks, logging,.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/sksamuel/cohort) (👨‍💻 11 · 🔀 12 · 📋 49 - 4% open · ⏱️ 27.08.2025):
+- [GitHub](https://github.com/sksamuel/cohort) (👨‍💻 11 · 🔀 12 · 📋 49 - 2% open · ⏱️ 27.08.2025):
 
 	```
 	git clone https://github.com/sksamuel/cohort
@@ -150,7 +150,7 @@ This curated list contains 28 awesome open-source projects with a total of 21K s
 
 <details><summary>Show 1 hidden projects...</summary>
 
-- <b><a href="https://github.com/DamirDenis-Tudor/ktor-server-rabbitmq">ktor-server-rabbitmq</a></b> (🥇7 ·  ⭐ 13) - Official RabbitMQ plugin for Ktor framework. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
+- <b><a href="https://github.com/DamirDenis-Tudor/ktor-server-rabbitmq">ktor-server-rabbitmq</a></b> (🥇8 ·  ⭐ 13 · 📈) - Official RabbitMQ plugin for Ktor framework. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
 </details>
 <br>
 
@@ -158,9 +158,9 @@ This curated list contains 28 awesome open-source projects with a total of 21K s
 
 <a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
 
-<details><summary><b><a href="https://github.com/pgjdbc/pgjdbc">pgjdbc</a></b> (🥇35 ·  ⭐ 1.6K) - Postgresql JDBC Driver. <code><a href="http://bit.ly/3rqEWVr">BSD-2</a></code></summary>
+<details><summary><b><a href="https://github.com/pgjdbc/pgjdbc">pgjdbc</a></b> (🥇35 ·  ⭐ 1.7K) - Postgresql JDBC Driver. <code><a href="http://bit.ly/3rqEWVr">BSD-2</a></code></summary>
 
-- [GitHub](https://github.com/pgjdbc/pgjdbc) (👨‍💻 340 · 🔀 880 · 📥 15K · 📦 1.1M · 📋 1.4K - 30% open · ⏱️ 08.11.2025):
+- [GitHub](https://github.com/pgjdbc/pgjdbc) (👨‍💻 340 · 🔀 880 · 📥 20K · 📦 1.1M · 📋 1.4K - 30% open · ⏱️ 19.11.2025):
 
 	```
 	git clone https://github.com/pgjdbc/pgjdbc
@@ -168,7 +168,7 @@ This curated list contains 28 awesome open-source projects with a total of 21K s
 </details>
 <details><summary><b><a href="https://github.com/xerial/sqlite-jdbc">sqlite-jdbc</a></b> (🥈27 ·  ⭐ 3.1K) - SQLite JDBC Driver. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/xerial/sqlite-jdbc) (👨‍💻 160 · 🔀 600 · 📥 1.1M · 📋 650 - 8% open · ⏱️ 07.11.2025):
+- [GitHub](https://github.com/xerial/sqlite-jdbc) (👨‍💻 160 · 🔀 600 · 📥 1.1M · 📋 650 - 8% open · ⏱️ 19.11.2025):
 
 	```
 	git clone https://github.com/xerial/sqlite-jdbc
@@ -185,9 +185,9 @@ This curated list contains 28 awesome open-source projects with a total of 21K s
 
 <a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
 
-<details><summary><b><a href="https://github.com/JetBrains/Exposed">Exposed</a></b> (🥇29 ·  ⭐ 9K) - Kotlin SQL Framework. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+<details><summary><b><a href="https://github.com/JetBrains/Exposed">Exposed</a></b> (🥇29 ·  ⭐ 9.1K) - Kotlin SQL Framework. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/JetBrains/Exposed) (👨‍💻 220 · 🔀 750 · 📦 21 · 📋 1.3K - 11% open · ⏱️ 06.11.2025):
+- [GitHub](https://github.com/JetBrains/Exposed) (👨‍💻 220 · 🔀 740 · 📦 21 · 📋 1.3K - 11% open · ⏱️ 20.11.2025):
 
 	```
 	git clone https://github.com/JetBrains/Exposed
@@ -201,7 +201,7 @@ This curated list contains 28 awesome open-source projects with a total of 21K s
 
 <details><summary><b><a href="https://start.ktor.io">Ktor CLI</a></b> (🥉11 ·  ⭐ 130 · 💤) - Command-line tool for creating Ktor projects. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/ktorio/ktor-cli) (👨‍💻 4 · 🔀 11 · 📥 4.6K · 📋 5 - 20% open · ⏱️ 24.02.2025):
+- [GitHub](https://github.com/ktorio/ktor-cli) (👨‍💻 4 · 🔀 11 · 📥 4.8K · 📋 5 - 20% open · ⏱️ 24.02.2025):
 
 	```
 	git clone https://github.com/ktorio/ktor-cli
@@ -209,8 +209,8 @@ This curated list contains 28 awesome open-source projects with a total of 21K s
 </details>
 <details><summary>Show 2 hidden projects...</summary>
 
-- <b><a href="https://github.com/ktorio/ktor-plugin-registry">Ktor Plugin Registry</a></b> (🥇13 ·  ⭐ 83) - Maintains a repository of all Ktor plugins. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
-- <b><a href="https://github.com/ktorio/kastle">KASTLE</a></b> (🥉4 ·  ⭐ 1) - Kotlin application source templating / layout engine. <code>❗Unlicensed</code>
+- <b><a href="https://github.com/ktorio/ktor-plugin-registry">Ktor Plugin Registry</a></b> (🥇13 ·  ⭐ 84) - Maintains a repository of all Ktor plugins. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
+- <b><a href="https://github.com/ktorio/kastle">KASTLE</a></b> (🥉6 ·  ⭐ 3 · 📈) - Kotlin application source templating / layout engine. <code>❗Unlicensed</code>
 </details>
 <br>
 
@@ -230,7 +230,7 @@ This curated list contains 28 awesome open-source projects with a total of 21K s
 
 <details><summary>Show 2 hidden projects...</summary>
 
-- <b><a href="https://zed.dev/extensions/kotlin">Zed Kotlin Language Support</a></b> (🥇9 ·  ⭐ 60 · ➕) - Kotlin support. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://zed.dev/extensions/kotlin">Zed Kotlin Language Support</a></b> (🥇9 ·  ⭐ 60) - Kotlin support. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
 - <b><a href="https://plugins.jetbrains.com/plugin/16008-ktor">JetBrains IntelliJ IDEA Ktor Plugin</a></b> -  <code>❗Unlicensed</code>
 </details>
 <br>
@@ -241,7 +241,7 @@ This curated list contains 28 awesome open-source projects with a total of 21K s
 
 <details><summary><b><a href="https://github.com/ktorio/ktor-samples">Samples for Ktor</a></b> (🥇19 ·  ⭐ 1.6K) - Sample projects for Ktor. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <code>client</code></summary>
 
-- [GitHub](https://github.com/ktorio/ktor-samples) (👨‍💻 47 · 🔀 350 · 📋 38 - 5% open · ⏱️ 07.11.2025):
+- [GitHub](https://github.com/ktorio/ktor-samples) (👨‍💻 48 · 🔀 350 · 📋 38 - 5% open · ⏱️ 20.11.2025):
 
 	```
 	git clone https://github.com/ktorio/ktor-samples
@@ -260,7 +260,7 @@ This curated list contains 28 awesome open-source projects with a total of 21K s
 
 <details><summary><b><a href="https://github.com/ktorio/ktor-documentation">Documentation</a></b> (🥇17 ·  ⭐ 510) - Documentation for the Ktor framework. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/ktorio/ktor-documentation) (👨‍💻 120 · 🔀 340 · ⏱️ 07.11.2025):
+- [GitHub](https://github.com/ktorio/ktor-documentation) (👨‍💻 120 · 🔀 350 · ⏱️ 12.11.2025):
 
 	```
 	git clone https://github.com/ktorio/ktor-documentation
@@ -268,7 +268,7 @@ This curated list contains 28 awesome open-source projects with a total of 21K s
 </details>
 <details><summary>Show 1 hidden projects...</summary>
 
-- <b><a href="https://api.ktor.io/">API docs</a></b> (🥉6 ·  ⭐ 4) - API docs for ktor.io website. <code>❗Unlicensed</code> <code>client</code>
+- <b><a href="https://api.ktor.io/3.2.x/">API docs</a></b> (🥉7 ·  ⭐ 4 · 📈) - API docs for ktor.io website. <code>❗Unlicensed</code> <code>client</code>
 </details>
 <br>
 
@@ -288,7 +288,7 @@ This curated list contains 28 awesome open-source projects with a total of 21K s
 
 <details><summary>Show 1 hidden projects...</summary>
 
-- <b><a href="https://github.com/Flaxoos/extra-ktor-plugins">Rate Limiting</a></b> (🥇10 ·  ⭐ 93 · ➕) - Feature-rich, efficient, and highly customizable.. <code>❗Unlicensed</code>
+- <b><a href="https://github.com/Flaxoos/extra-ktor-plugins">Rate Limiting</a></b> (🥇10 ·  ⭐ 93) - Feature-rich, efficient, and highly customizable.. <code>❗Unlicensed</code>
 </details>
 
 ---
